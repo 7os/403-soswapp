@@ -1,7 +1,7 @@
 {
-  "name" : "7os/web-page-403",
+  "name" : "7os/web-app-403",
   "description" : "7 OS Web - app template",
-  "homepage" : "https://github.com/7os/web-page-403",
+  "homepage" : "https://github.com/7os/web-app-403",
   "support" : {
     "email" : "dev@tymfrontiers.com",
     "website" : "https://tymfrontiers.com",

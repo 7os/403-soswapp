@@ -1,8 +1,8 @@
 {
-    "name": "7os/web-page-403",
+    "name": "7os/web-app-403",
     "description": "7 OS Web - 403 page",
     "keywords": ["php", "javascript","7","seven","os","web","app"],
-    "homepage": "https://github.com/7os/web-page-403",
+    "homepage": "https://github.com/7os/web-app-403",
     "type": "library",
     "license": "MIT",
     "authors": [
