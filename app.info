@@ -1,7 +1,7 @@
 {
-  "name" : "7os/web-app-403",
+  "name" : "7os/403-soswapp",
   "description" : "7 OS Web - app template",
-  "homepage" : "https://github.com/7os/web-app-403",
+  "homepage" : "https://github.com/7os/403-soswapp",
   "support" : {
     "email" : "dev@tymfrontiers.com",
     "website" : "https://tymfrontiers.com",
